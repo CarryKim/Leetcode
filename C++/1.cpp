@@ -1,5 +1,6 @@
 // 1. Two Sum
-// 2023.12.19 by CarryKim
+// https://leetcode.com/problems/two-sum/
+// Authored by CarryKim
 
 class Solution {
 public:
